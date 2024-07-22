@@ -1,7 +1,7 @@
 # File Converter
 **Visit the live site: [File Converter](https://file-converter-tau.vercel.app/)**
 
-!image(https://github.com/michaeltikhonovsky/file-converter/public/images/Screenshot 2024-07-21 at 10.00.49 PM.png
+![alt text] (https://github.com/michaeltikhonovsky/file-converter/public/images/Screenshot
 
 ## Table of Contents
 
