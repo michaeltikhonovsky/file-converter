@@ -5,9 +5,8 @@ import Footer from "@/components/footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-	title: "FileFlex",
-	description: `FileFlex – your go-to online tool for unlimited and free
-    multimedia conversion`,
+	title: "File Converter",
+	description: `Convert your files to different formats`,
 };
 
 export default function RootLayout({
